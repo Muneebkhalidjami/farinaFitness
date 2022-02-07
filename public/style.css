@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Oswald:wght@676&display=swap');
+:root{
+    --darkcolor:#131da5;
+}
+.backgrounddark{
+    background-color: var(--darkcolor);
+}
+.container-one {
+    min-height: 1050px;
+    padding-top: 51px;
+    }
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.aboutus-heading:hover{
+    background-color: orange;
+}
+.button-one:hover{
+    background-color: orange;
+    
+}
+.button-one{
+    border-radius: 10px;
+
+
+}

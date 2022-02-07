@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Oswald:wght@676&display=swap');
+
+:root{
+    --darkcolor:#131da5;
+}
+.backgrounddark{
+    background-color: var(--darkcolor);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-one:hover{
+    background-color: beige;
+}
